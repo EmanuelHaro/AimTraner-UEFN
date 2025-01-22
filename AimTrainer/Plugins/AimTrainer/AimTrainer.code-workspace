@@ -1,0 +1,52 @@
+{
+    "folders": [
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/Fortnite"
+        },
+        {
+            "name": "AimTrainer",
+            "path": "E:/UnrealProjects/AimTrainer/AimTrainer/Plugins/AimTrainer/Content"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
