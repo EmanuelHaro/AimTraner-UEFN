@@ -1,6 +1,14 @@
 {
     "folders": [
         {
+            "name": "AimTrainer",
+            "path": "E:/UnrealProjects/AimTrainer/AimTrainer/Plugins/AimTrainer/Content"
+        },
+        {
+            "name": "AimTrainer/Assets",
+            "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/AimTrainer-Assets"
+        },
+        {
             "name": "vproject - DO NOT MODIFY",
             "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/vproject"
         },
@@ -15,10 +23,6 @@
         {
             "name": "Fortnite",
             "path": "C:/Users/emanu/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/AimTrainer/Fortnite"
-        },
-        {
-            "name": "AimTrainer",
-            "path": "E:/UnrealProjects/AimTrainer/AimTrainer/Plugins/AimTrainer/Content"
         }
     ],
     "settings": {
