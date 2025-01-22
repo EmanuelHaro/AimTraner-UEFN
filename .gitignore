@@ -72,3 +72,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.sln
+.vs/
+Intermediate/
+/*/Intermediate/
+Saved/
+Build/
+Logs/
+DerivedDataCache/
+*.txt
+*_BuiltData.uasset
+Binaries
+/*/Binaries/
+*.modules
+.idea/
